@@ -24,7 +24,7 @@
     }
     ?>
     <div class="rows">
-        <form action="<?php echo $_SERVER["PHP_SELF"];?>" method="get">
+        <form action="#" method="get">
             <center><h2>Kalkulator Penjumlahan</h2></center>
             <div class="form-group">
                 <label>Bilangan 1:</label>

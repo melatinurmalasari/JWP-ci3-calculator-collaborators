@@ -22,5 +22,8 @@ class Pembagian extends CI_Controller {
 	{
 		$this->load->view('pembagian');
 	}
-    
+    public function hasilBagi(){
+        $hasil['hasilnya'] = $_POST['num1']/$_POST['num2'];
+		$this->load->view('hasilBagi', $hasil);
+    }
 }

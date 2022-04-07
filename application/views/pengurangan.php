@@ -39,7 +39,7 @@
     }
     ?>
     <div class="rows">
-        <form action="<?php echo $_SERVER["PHP_SELF"];?>" method="get">
+        <form action="#" method="get">
             <h2 style=> KALKULATOR PENGURANGAN </h2>
             <div class="form-group">
                 <label>Bilangan Pertama:</label>
