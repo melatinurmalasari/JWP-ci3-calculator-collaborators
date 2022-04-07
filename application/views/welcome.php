@@ -18,10 +18,10 @@
 		<div class="card body mt-5">
 			<div class="container text-center">
 				<div class="mb-3">
-					<a href="" class="btn btn-primary">Penjumlahan</a>
+					<a href="<?php echo base_url('penjumlahan') ?>" class="btn btn-primary">Penjumlahan</a>
 				</div>
 				<div class="mb-3">
-					<a href="" class="btn btn-primary">Pengurangan</a>
+					<a href="<?php echo base_url('pengurangan') ?>" class="btn btn-primary">Pengurangan</a>
 				</div>
 				<div class="mb-3">
 					<a href="<?php echo base_url('pembagian') ?>" class="btn btn-primary">Pembagian</a>
