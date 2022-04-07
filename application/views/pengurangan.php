@@ -40,7 +40,7 @@
     ?>
     <div class="rows">
         <form action="<?php echo $_SERVER["PHP_SELF"];?>" method="get">
-            <h2 style=> KALKULATOR PENJUMLAHAN </h2>
+            <h2 style=> KALKULATOR PENGURANGAN </h2>
             <div class="form-group">
                 <label>Bilangan Pertama:</label>
                 <input type="text" name="bil1" class="form-control" value="<?php echo $bil1; ?>" required>
