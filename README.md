@@ -2,6 +2,6 @@
 
 
 a simple program with 2 collaborators (riyan & hanizar)
-about calculator
+about a simple calculator
 enjoy
 thxx
